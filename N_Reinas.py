@@ -98,23 +98,5 @@ if __name__ == '__main__':
 
     print("Tiempo de ejecucion", (end-start),"second")  
 
-    #Using show function the program takes 16.75483226776123 second  within show function the program takes 0.03496527671813965 second
-
-
-
-   
-
-
-    
-    
-
-    
-    
-                    
-   
-
-        
-
-
-
+    #Using show function the program takes 16.75483226776123 second  within show function the program takes 0.03496527671813965 second          
   
